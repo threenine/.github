@@ -2,9 +2,9 @@
 <div  align="center" style="text-align: center; padding: 20px;">
 <a href="https://threenine.co.uk" target="_blank">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/threenine/.github/raw/main/profile/images/main-logo-header-dark.png">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/threenine/.github/raw/main/profile/images/main-logo-header-light.png">
-  <img alt="Gary Woodfine - Opinionated Software Developer" src="https://github.com/threenine/.github/raw/main/profile/images/main-logo-header-dark.png" align="center" />
+  <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/threenine-co-uk/image/upload/v1690791866/brand/main-logo-header-dark_rzzkwf.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/threenine-co-uk/image/upload/v1690791866/brand/main-logo-header-light_qlosel.png">
+  <img alt="Gary Woodfine - Opinionated Software Developer" src="https://res.cloudinary.com/threenine-co-uk/image/upload/v1690791866/brand/main-logo-header-dark_rzzkwf.png" align="center" />
 </picture>
 </a>
 </div>
