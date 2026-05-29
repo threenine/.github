@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://res.cloudinary.com/threenine-co-uk/image/upload/v1690791866/main-logo-header-io_wwf8vn.png">
   <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/threenine-co-uk/image/upload/v1690791866/main-logo-header-white-io_xrmcos.png">
-  <img alt="Gary Woodfine - Opinionated Software Developer" src="https://res.cloudinary.com/threenine-co-uk/image/upload/v1690791866/main-logo-header-io_wwf8vn.png" align="center" />
+  <img alt="threenine.io - Cultivate, Develop & Sustain Sovereignty" src="https://res.cloudinary.com/threenine-co-uk/image/upload/v1690791866/main-logo-header-io_wwf8vn.png" align="center" />
 </picture>
 </a>
 </div>
